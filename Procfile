@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --theme=dark  Covid_Dashboard.ipynb
+web: voila --port=$PORT --no-browser --theme=dark  Notebook/Covid_Dashboard.ipynb
